@@ -1,0 +1,98 @@
+[
+  {
+    "id": CD-001,
+    "word": "ϫⲱⲙ",
+    "type": "noun",
+    "gender": "masculine",
+    "translation": "book",
+    "description": "a collection of papers bounded together",
+    "letters": 3,
+    "isVerb": false,
+    "imageUrl": "",
+    "synonyms": ["ⲅⲣⲁⲫⲏ", "ⲧⲟⲙⲟⲥ"],
+    "relatedWords": {
+      "id": Rel-001,
+      "words": ["ϫⲱⲙⲛⲱϣ", "ⲙⲁⲛⲭⲁϫⲱⲙ", "ϫⲱⲙⲙⲙⲓⲥⲓ"]
+    }
+  },
+  {
+    "id": CD-002,
+    "word": "ϩⲁⲣⲙⲁ",
+    "type": "noun",
+    "gender": "feminine",
+    "translation": "wagon",
+    "description": "a vehicle with at least three wheels",
+    "letters": 5,
+    "isVerb": false,
+    "imageUrl": "",
+    "synonyms": [],
+    "relatedWords": {
+      "id": Rel-002,
+      "words": []
+    }
+  },
+  {
+    "id": CD-003,
+    "word": "ⲟⲩϩⲟⲣ",
+    "type": "noun",
+    "gender": "masculine",
+    "translation": "dog",
+    "description": "a domisticated four-legged house animal",
+    "letters": 5,
+    "isVerb": false,
+    "imageUrl": "",
+    "synonyms": [],
+    "relatedWords": {
+      "id": Rel-003,
+      "words": ["ⲟⲩϩⲱⲣ"]
+    }
+  },
+  {
+    "id": CD-004,
+    "word": "ⲁⲗⲱⲙ",
+    "type": "noun",
+    "gender": "masculine",
+    "translation": "cheese",
+    "description": "a melk-based product",
+    "letters": 4,
+    "isVerb": false,
+    "imageUrl": "",
+    "synonyms": [],
+    "relatedWords": {
+      "id": Rel-004,
+      "words": []
+    }
+  },
+  {
+    "id": CD-005,
+    "word": "ⲗⲁⲙⲡⲁⲥ",
+    "type": "noun",
+    "gender": "masculine",
+    "translation": "lamp",
+    "description": "a tool that gives off light",
+    "letters": 6,
+    "isVerb": false,
+    "imageUrl": "",
+    "synonyms": ["ϧⲏⲃⲥ", "ⲫⲁⲛⲟⲥ"],
+    "relatedWords": {
+      "id": Rel-005,
+      "words": ["ⲉⲣⲗⲁⲙⲡⲓⲛ", "ⲟⲩⲱⲓⲛⲓ", "ⲉⲣⲟⲩⲱⲓⲛⲓ"]
+    }
+  },
+  {
+    "id": CD-006,
+    "word": "ⲫⲓⲛ",
+    "type": "noun",
+    "gender": "masculine",
+    "translation": "mouse",
+    "description": "a small ally animal",
+    "letters": 3,
+    "isVerb": false,
+    "imageUrl": "",
+    "synonyms": [],
+    "relatedWords": {
+      "id": Rel-006,
+      "words": []
+    }
+  },
+]

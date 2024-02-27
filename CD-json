@@ -88,7 +88,7 @@
     "description": "a small ally animal",
     "letters": 3,
     "isVerb": false,
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/KyroHub/CD-json-images/main/_76f2ab73-8efc-4e46-90c7-af6a23109143.jpg",
     "synonyms": [],
     "relatedWords": {
       "id": Rel-006,

@@ -40,7 +40,7 @@
     "description": "a domisticated four-legged house animal",
     "letters": 5,
     "isVerb": false,
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/KyroHub/CD-json-images/main/dog-dalle.jpg",
     "synonyms": [],
     "relatedWords": {
       "id": Rel-003,
@@ -88,7 +88,7 @@
     "description": "a small ally animal",
     "letters": 3,
     "isVerb": false,
-    "imageUrl": "https://raw.githubusercontent.com/KyroHub/CD-json-images/main/_76f2ab73-8efc-4e46-90c7-af6a23109143.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/KyroHub/CD-json-images/main/mouse-dalle.jpg",
     "synonyms": [],
     "relatedWords": {
       "id": Rel-006,

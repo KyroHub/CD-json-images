@@ -8,7 +8,7 @@
     "description": "a collection of papers bounded together",
     "letters": 3,
     "isVerb": false,
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/KyroHub/CD-json-images/main/book-dalle.jpg",
     "synonyms": ["ⲅⲣⲁⲫⲏ", "ⲧⲟⲙⲟⲥ"],
     "relatedWords": {
       "id": Rel-001,
@@ -17,15 +17,15 @@
   },
   {
     "id": CD-002,
-    "word": "ϩⲁⲣⲙⲁ",
+    "word": "ⲃⲉⲣⲉϭⲱⲟⲩⲧⲥ",
     "type": "noun",
     "gender": "feminine",
-    "translation": "wagon",
+    "translation": "car",
     "description": "a vehicle with at least three wheels",
     "letters": 5,
     "isVerb": false,
-    "imageUrl": "",
-    "synonyms": [],
+    "imageUrl": "https://raw.githubusercontent.com/KyroHub/CD-json-images/main/car-dalle.jpg",
+    "synonyms": ["ϩⲁⲣⲙⲁ"],
     "relatedWords": {
       "id": Rel-002,
       "words": []
@@ -56,7 +56,7 @@
     "description": "a melk-based product",
     "letters": 4,
     "isVerb": false,
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/KyroHub/CD-json-images/main/cheese-dalle.jpg",
     "synonyms": [],
     "relatedWords": {
       "id": Rel-004,
@@ -72,7 +72,7 @@
     "description": "a tool that gives off light",
     "letters": 6,
     "isVerb": false,
-    "imageUrl": "",
+    "imageUrl": "https://raw.githubusercontent.com/KyroHub/CD-json-images/main/lamp-dalle.jpg",
     "synonyms": ["ϧⲏⲃⲥ", "ⲫⲁⲛⲟⲥ"],
     "relatedWords": {
       "id": Rel-005,
@@ -92,6 +92,22 @@
     "synonyms": [],
     "relatedWords": {
       "id": Rel-006,
+      "words": []
+    }
+  },
+  {
+    "id": CD-007,
+    "word": "ⲑⲱⲟⲩⲓ",
+    "type": "noun",
+    "gender": "masculine",
+    "translation": "shoes",
+    "description": "a wearable for the feet to keep it protected",
+    "letters": 5,
+    "isVerb": false,
+    "imageUrl": "",
+    "synonyms": [],
+    "relatedWords": {
+      "id": Rel-007,
       "words": []
     }
   },
